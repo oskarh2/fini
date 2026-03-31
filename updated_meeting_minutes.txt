@@ -1,0 +1,29 @@
+Meeting Minutes
+
+Title: Connectivity Testing and Configuration Discussion
+Date: June 25, 2025
+Attendees: Ajay, Amit [C]; Harty, Jean; Bobeck, Scott; Herrera, Oscar; Parveen, Katheeja [C]
+
+Summary:
+- Discussed connectivity testing and configuration file updates.
+- Identified the need to test communication between systems.
+- Clarified the requirement to modify local configuration files and add necessary processes.
+- Emphasized the importance of documenting test plans and scenarios.
+- Concluded with acknowledgments and next steps.
+
+Action Items:
+1. Update local configuration files to include new processes.
+   - Assigned to: Ajay, Amit
+   - Due Date: July 2, 2025
+
+2. Document test scenarios and discussion points in the test plan.
+   - Assigned to: Bobeck, Scott
+   - Due Date: July 3, 2025
+
+3. Verify account setup consistency for testing.
+   - Assigned to: Harty, Jean
+   - Due Date: July 4, 2025
+
+4. Confirm completion of connectivity testing and report findings.
+   - Assigned to: Herrera, Oscar
+   - Due Date: July 5, 2025

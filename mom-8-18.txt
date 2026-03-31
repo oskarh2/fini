@@ -1,0 +1,237 @@
+
+Herrera, Oscar started transcription
+
+Scarmozzino, Dolores
+0 minutes 4 seconds0:04
+Scarmozzino, Dolores 0 minutes 4 seconds
+I didn't see anything more from Uh from Jessica, unfortunately.
+
+Walker, Scott
+0 minutes 9 seconds0:09
+Walker, Scott 0 minutes 9 seconds
+I reached out to Jessica as well last week and never was able to talk to her. Not about this specific problem, but about State Street in general.
+
+Scarmozzino, Dolores
+0 minutes 10 seconds0:10
+Scarmozzino, Dolores 0 minutes 10 seconds
+OK.
+Scarmozzino, Dolores 0 minutes 10 seconds
+I.
+Scarmozzino, Dolores 0 minutes 20 seconds
+Oh yeah.
+
+Walker, Scott
+0 minutes 21 seconds0:21
+Walker, Scott 0 minutes 21 seconds
+Yeah, so
+
+Scarmozzino, Dolores
+0 minutes 23 seconds0:23
+Scarmozzino, Dolores 0 minutes 23 seconds
+Mm.
+HO
+
+Herrera, Oscar
+0 minutes 25 seconds0:25
+Herrera, Oscar 0 minutes 25 seconds
+I I know so the bank is asked to me is we will we will manage this in the same way with the PCs. So how we can manage this is related to the mat e-mail that they wanna is possible to manage in a different way in order to.
+Herrera, Oscar 0 minutes 44 seconds
+To get more agility in this because I request to them that we need to create a a requirement document and everything in in order that they would like to have in a in other ways as I understand by but not e-mail.
+
+Walker, Scott
+1 minute1:00
+Walker, Scott 1 minute
+We still need a requirements document whether we build it, but we still have to have some kind. Why? Why is that a problem?
+
+Contreras, Paul
+35 minutes 33 seconds35:33
+Contreras, Paul 35 minutes 33 seconds
+Agree.
+
+Walker, Scott
+35 minutes 39 seconds35:39
+Walker, Scott 35 minutes 39 seconds
+Oscar, do you?
+
+Scarmozzino, Dolores
+35 minutes 39 seconds35:39
+Scarmozzino, Dolores 35 minutes 39 seconds
+Alright, I.
+HJ
+Harty, Jean
+35 minutes 42 seconds35:42
+Harty, Jean 35 minutes 42 seconds
+And when I look at their road map #17 was USRTPS, New York Bank, Intercompany Settlement, Transact Boston DDA. So it was #17 and it is in not started.
+
+Scarmozzino, Dolores
+35 minutes 52 seconds35:52
+Scarmozzino, Dolores 35 minutes 52 seconds
+They.
+
+Walker, Scott
+35 minutes 57 seconds35:57
+Walker, Scott 35 minutes 57 seconds
+You guys are talking about real stuff.
+
+Scarmozzino, Dolores
+35 minutes 58 seconds35:58
+Scarmozzino, Dolores 35 minutes 58 seconds
+Right.
+Scarmozzino, Dolores 36 minutes 1 second
+Yeah, I'm sorry, I do have to go. So I don't know who wants to chase Jessica, but.
+Scarmozzino, Dolores 36 minutes 11 seconds
+I uh, I will if I have to, but.
+Scarmozzino, Dolores 36 minutes 19 seconds
+Um.
+
+Walker, Scott
+36 minutes 19 seconds36:19
+Walker, Scott 36 minutes 19 seconds
+Oscar, here's what I'll I'll send her the message right now. I'm going to copy Jean and you and.
+HO
+Herrera, Oscar
+36 minutes 22 seconds36:22
+Herrera, Oscar 36 minutes 22 seconds
+OK.
+Herrera, Oscar 36 minutes 24 seconds
+OK.
+
+Scarmozzino, Dolores
+36 minutes 29 seconds36:29
+Scarmozzino, Dolores 36 minutes 29 seconds
+Thanks, Scott. OK.
+
+Walker, Scott
+36 minutes 31 seconds36:31
+Walker, Scott 36 minutes 31 seconds
+Anyway, I I again, you're welcome. You take care, Doris. I'm going to copy everybody on this call and say.
+HO
+Herrera, Oscar
+36 minutes 33 seconds36:33
+Herrera, Oscar 36 minutes 33 seconds
+Yes, I I will. I I will send the minutes on meeting and and copy to her that we request. I will send the meeting meeting or this meeting and and send to her and request the the the meeting.
+HJ
+Harty, Jean
+36 minutes 33 seconds36:33
+Harty, Jean 36 minutes 33 seconds
+Dolores, one one quick thing before you leave.
+
+Scarmozzino, Dolores
+36 minutes 34 seconds36:34
+Scarmozzino, Dolores 36 minutes 34 seconds
+Alright.
+
+Walker, Scott
+36 minutes 42 seconds36:42
+Walker, Scott 36 minutes 42 seconds
+We OK, OK, OK. I would just say that name everybody here that we met and we are at a stopping point and we really need her help in order to move this forward and the bank is getting antsy.
+HO
+Herrera, Oscar
+36 minutes 57 seconds36:57
+Herrera, Oscar 36 minutes 57 seconds
+Yes.
+
+Walker, Scott
+36 minutes 58 seconds36:58
+Walker, Scott 36 minutes 58 seconds
+Say it however you want to in your words.
+
+Scarmozzino, Dolores
+36 minutes 58 seconds36:58
+Scarmozzino, Dolores 36 minutes 58 seconds
+Yeah.
+HO
+Herrera, Oscar
+37 minutes 1 second37:01
+Herrera, Oscar 37 minutes 1 second
+Yes, yes, yes, I will do it now.
+
+Scarmozzino, Dolores
+37 minutes 4 seconds37:04
+Scarmozzino, Dolores 37 minutes 4 seconds
+OK. Yeah. And Jean, I saw, I saw your IM about Citizens Bank, so.
+
+Walker, Scott
+37 minutes 4 seconds37:04
+Walker, Scott 37 minutes 4 seconds
+OK, that sounds fine.
+HJ
+Harty, Jean
+37 minutes 4 seconds37:04
+Harty, Jean 37 minutes 4 seconds
+Delete.
+Harty, Jean 37 minutes 10 seconds
+Yeah, I sent. I sent mail too.
+
+Scarmozzino, Dolores
+37 minutes 12 seconds37:12
+Scarmozzino, Dolores 37 minutes 12 seconds
+Oh, OK. So single bank endpoint with multiple queues and then those multiple queues can match different sources on the MTS side, I think.
+HJ
+Harty, Jean
+37 minutes 26 seconds37:26
+Harty, Jean 37 minutes 26 seconds
+No, no, I think it's is that is that or is it the the other way around that we have one end point on the MTS side?
+Harty, Jean 37 minutes 36 seconds
+And.
+Harty, Jean 37 minutes 38 seconds
+Multiple on the UP bank adaptive side.
+
+Scarmozzino, Dolores
+37 minutes 42 seconds37:42
+Scarmozzino, Dolores 37 minutes 42 seconds
+Right, right, right. There's multiple MQQ's on the UPF side.
+HJ
+Harty, Jean
+37 minutes 47 seconds37:47
+Harty, Jean 37 minutes 47 seconds
+Which come into to which funnel into one single bank, single bank adapt on MTS.
+
+Scarmozzino, Dolores
+37 minutes 54 seconds37:54
+Scarmozzino, Dolores 37 minutes 54 seconds
+Yes, that's how they wanted it, but if.
+HJ
+Harty, Jean
+37 minutes 58 seconds37:58
+Harty, Jean 37 minutes 58 seconds
+Oh, no, that's the easiest. That's the easiest way. As long as they, you know, put the source in there. OK, all right.
+
+Scarmozzino, Dolores
+38 minutes 1 second38:01
+Scarmozzino, Dolores 38 minutes 1 second
+Oh, good.
+Scarmozzino, Dolores 38 minutes 6 seconds
+Right. They're gonna have to put the source.
+HJ
+Harty, Jean
+38 minutes 8 seconds38:08
+Harty, Jean 38 minutes 8 seconds
+OK, I'm gonna respond back to the e-mail e-mail so you can ignore it.
+
+Scarmozzino, Dolores
+38 minutes 14 seconds38:14
+Scarmozzino, Dolores 38 minutes 14 seconds
+Thanks, Jean. OK, bye for now. Thank you.
+HJ
+Harty, Jean
+38 minutes 16 seconds38:16
+Harty, Jean 38 minutes 16 seconds
+Thank you. Yep. All right. Yep. Thank you. Bye, bye.
+
+Scarmozzino, Dolores
+38 minutes 19 seconds38:19
+Scarmozzino, Dolores 38 minutes 19 seconds
+Bye, bye.
+HO
+Herrera, Oscar
+38 minutes 19 seconds38:19
+Herrera, Oscar 38 minutes 19 seconds
+Thank you. Bye.
+Herrera, Oscar 38 minutes 20 seconds
+Thank you. Bye, bye.
+
+Contreras, Paul
+38 minutes 22 seconds38:22
+Contreras, Paul 38 minutes 22 seconds
+Bless you all team. Bye.

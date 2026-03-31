@@ -1,0 +1,196 @@
+
+Herrera, Oscar started transcription
+
+Bobeck, Scott
+0 minutes 3 seconds0:03
+Bobeck, Scott 0 minutes 3 seconds
+Whether they answer the questions or not, they still require our review, right?
+Bobeck, Scott 0 minutes 7 seconds
+They're wrong in their statements about the the Tran code and what we've already said. It sounds like they don't have a solution. It sounds like they don't have any solution whatsoever. I mean, I was told, or at least I was thought I was told that the bank was already doing this.
+Bobeck, Scott 0 minutes 23 seconds
+And now we come to find out they're not doing anything. So which is it? They're already doing it or they're not doing anything with regards to transact. But if they were doing something, they had to, they had to key off of those accounts, right? So but them saying, oh, well, you have to give us a code here, here's how you do it today. Well, that's wrong. That's not how we do it today. That becomes that comes out of the remote record for.
+AA
+
+Ajay, Amit [C]
+0 minutes 30 seconds0:30
+Ajay, Amit [C] 0 minutes 30 seconds
+No, yeah.
+
+Bobeck, Scott
+0 minutes 43 seconds0:43
+Bobeck, Scott 0 minutes 43 seconds
+That link to say what's your, what's your transaction ID? That's a host thing. They define what it is. We don't get to make it up. They tell us what it is and they put that transaction ID in the enroll record. So when we set a debit and or credit post based on that transaction ID, that's the first couple of characters.
+Bobeck, Scott 1 minute 1 second
+So we have one if we have, yeah, go ahead.
+HJ
+
+Harty, Jean
+1 minute 1 second1:01
+Harty, Jean 1 minute 1 second
+Yeah, yeah, but wait A. minute. But this code is the MPA custom module would have to be updated to go to two different links if that's the way we're going.
+
+Bobeck, Scott
+1 minute 13 seconds1:13
+Bobeck, Scott 1 minute 13 seconds
+That's that's correct. That's where I was going to go, right? That doesn't mean that we can say, OK, it's going to go to Transact, so it's ABC and it's going to go to Hogan, so it's DEF. No, that value comes out of the posting record for that single link, so they don't get to swap it based on the accounts and the system of record.
+HJ
+
+Harty, Jean
+1 minute 17 seconds1:17
+Harty, Jean 1 minute 17 seconds
+OK.
+
+Bobeck, Scott
+1 minute 30 seconds1:30
+Bobeck, Scott 1 minute 30 seconds
+So I still think their their decision to think that a blank value should go to the old system. What happens when it's only the new system? That means forever and ever they have to keep putting a value in the remote in the in the rail record field.
+HJ
+Harty, Jean
+1 hour 36 seconds1:00:36
+Harty, Jean 1 hour 36 seconds
+Oh.
+Harty, Jean 1 hour 38 seconds
+Nine RTPS 98944. I've created subtasks, test plan, configure internal UPF area, connectivity testing and internal bank adapter testing.
+Harty, Jean 1 hour 52 seconds
+And I'm I'm trying to do unit testing now and I'm hoping that this will be in the QA build this weekend.
+HO
+Herrera, Oscar
+1 hour 53 seconds1:00:53
+Herrera, Oscar 1 hour 53 seconds
+Oh.
+HJ
+Harty, Jean
+1 hour 1 minute 4 seconds1:01:04
+Harty, Jean 1 hour 1 minute 4 seconds
+And it needs to be full. Yeah, yeah, I'm hoping the 15th on the Jerra. It says the 22nd, but I'm hoping to get it out.
+AA
+Ajay, Amit [C]
+1 hour 1 minute 4 seconds1:01:04
+Ajay, Amit [C] 1 hour 1 minute 4 seconds
+This weekend, 15th, 16th or 22nd weekend.
+Ajay, Amit [C] 1 hour 1 minute 10 seconds
+OK.
+HJ
+Harty, Jean
+1 hour 1 minute 17 seconds1:01:17
+Harty, Jean 1 hour 1 minute 17 seconds
+Today or tomorrow and it should be fully tested by the 12th.
+AA
+Ajay, Amit [C]
+1 hour 1 minute 25 seconds1:01:25
+Ajay, Amit [C] 1 hour 1 minute 25 seconds
+By the 12th, OK, OK.
+HJ
+Harty, Jean
+1 hour 1 minute 25 seconds1:01:25
+Harty, Jean 1 hour 1 minute 25 seconds
+Of September, yeah.
+Harty, Jean 1 hour 1 minute 28 seconds
+So that we have time to turn around any TARS that may be found.
+Bobeck, Scott 1 hour 11 minutes 40 seconds
+Just because T3 says, hey, how do I do this same way we told you before?
+Bobeck, Scott 1 hour 11 minutes 48 seconds
+I'll see if I can find those that information and send it to you Khadija.
+PK
+Parveen, Katheeja [C]
+1 hour 11 minutes 53 seconds1:11:53
+Parveen, Katheeja [C] 1 hour 11 minutes 53 seconds
+Yes.
+Parveen, Katheeja [C] 1 hour 11 minutes 54 seconds
+Yes.
+
+Bobeck, Scott
+1 hour 11 minutes 57 seconds1:11:57
+Bobeck, Scott 1 hour 11 minutes 57 seconds
+And these meetings really need to Oscar to this time that we put out there. It's what this is A. free-for-all. Spend A. day with Scott, spend A. day with Gene. We got other **** that we have to do, especially now. So if there's an hour in the call, we need to stick to an hour, please. It's now 1048 and we're 20 minutes over.
+PK
+Parveen, Katheeja [C]
+1 hour 11 minutes 57 seconds1:11:57
+Parveen, Katheeja [C] 1 hour 11 minutes 57 seconds
+Thank you.
+HO
+Herrera, Oscar
+1 hour 12 minutes 14 seconds1:12:14
+Herrera, Oscar 1 hour 12 minutes 14 seconds
+Yes, thank you. Thank you, Scott. We can close the the meeting now, please.
+
+Bobeck, Scott
+1 hour 12 minutes 24 seconds1:12:24
+Bobeck, Scott 1 hour 12 minutes 24 seconds
+If you have questions in the meantime, just send emails. OK, please just send emails.
+AA
+Ajay, Amit [C]
+1 hour 12 minutes 24 seconds1:12:24
+Ajay, Amit [C] 1 hour 12 minutes 24 seconds
+Yeah, uh.
+Ajay, Amit [C] 1 hour 12 minutes 27 seconds
+Sure.
+HO
+Herrera, Oscar
+1 hour 12 minutes 27 seconds1:12:27
+Herrera, Oscar 1 hour 12 minutes 27 seconds
+Yes, yes, sure. Scott, totally agree.
+AA
+Ajay, Amit [C]
+1 hour 12 minutes 30 seconds1:12:30
+Ajay, Amit [C] 1 hour 12 minutes 30 seconds
+Sure. One one last thing. When is Jane? Jean is going on vacation, right? So when is she? When? When are you going, Jean? Which week you are away?
+HJ
+Harty, Jean
+1 hour 12 minutes 42 seconds1:12:42
+Harty, Jean 1 hour 12 minutes 42 seconds
+We have one more week.
+AA
+Ajay, Amit [C]
+1 hour 12 minutes 45 seconds1:12:45
+Ajay, Amit [C] 1 hour 12 minutes 45 seconds
+We have one more week, OK.
+Ajay, Amit [C] 1 hour 12 minutes 48 seconds
+Alright.
+
+Bobeck, Scott
+1 hour 12 minutes 48 seconds1:12:48
+Bobeck, Scott 1 hour 12 minutes 48 seconds
+And she might not come back.
+HO
+Herrera, Oscar
+1 hour 12 minutes 50 seconds1:12:50
+Herrera, Oscar 1 hour 12 minutes 50 seconds
+Thank you. Thank you, Gene. Thank you, Scott. Thank you everyone.
+
+Bobeck, Scott
+1 hour 12 minutes 55 seconds1:12:55
+Bobeck, Scott 1 hour 12 minutes 55 seconds
+OK.
+
+Contreras, Paul
+1 hour 12 minutes 56 seconds1:12:56
+Contreras, Paul 1 hour 12 minutes 56 seconds
+Thanks, Tim. This has been a really great time. Thanks, Scott.
+
+Bobeck, Scott
+1 hour 13 minutes1:13:00
+Bobeck, Scott 1 hour 13 minutes
+OK. Bye. Bye, Paul.
+
+Contreras, Paul
+1 hour 13 minutes 2 seconds1:13:02
+Contreras, Paul 1 hour 13 minutes 2 seconds
+Thank you. Bye. God bless you all team. Bye.
+HO
+Herrera, Oscar
+1 hour 13 minutes 2 seconds1:13:02
+Herrera, Oscar 1 hour 13 minutes 2 seconds
+Bye, bye. Thank you.
+AA
+Ajay, Amit [C]
+1 hour 13 minutes 3 seconds1:13:03
+Ajay, Amit [C] 1 hour 13 minutes 3 seconds
+Thanks a lot. Thanks, Jean. Thanks everyone. Bye.
+PK
+Parveen, Katheeja [C]
+1 hour 13 minutes 41 seconds1:13:41
+Parveen, Katheeja [C] 1 hour 13 minutes 41 seconds
+So.
+
+Herrera, Oscar stopped transcription
