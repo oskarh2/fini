@@ -1,0 +1,5 @@
+1)	Ticket  [H24-708497] State Street- Global - Bank Adapter Project Handover Help24 - IT GoJira
+
+2) DOmestic https://gojira.am.tsacorp.com/browse/H24-709864
+3) Nov  Mandates https://gojira.am.tsacorp.com/browse/H24-712390
+
