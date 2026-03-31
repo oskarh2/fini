@@ -1,0 +1,127 @@
+training  ACI  Paul Contreras  28 jan 
+
+A  pplied
+
+C  ommunication
+
+I  ncorporated.
+
+1975  negocio bancos  accounting
+
+inicio la interconexion de bancos.
+
+vamos hacer que los bancos puedan comunicar 24  
+
+ahora  banking : integrando mas servicios (se agrupan pagos entre personas, adquirencia ,switcheo redes)
+
+
+tener opciones de cada una de esas actividades del negocio del banking.
+
+todos los servicios esten cubiertos por ACI.
+
+
+1) ATM (Base24) 1975-1978crea una imagen a toda prueba, sin fallas. funcionaba linea telefonica
+una imagen que solo el banco pudiera usar.
+
+2) Base24-clasico  el que se maneja ahora.
+
+motor pagos.
+
+1) Acquire, atraves de cualquier dispositivo puedo adquirir una transaccion
+2) Authenticate, cualquier transaccion , puedo verificar que es autentica.(criptografia)
+3) Authorize, transaccion local la podemos autorizar la transaccion.
+4) Switch, poder enviarsela a cualquier proveedor
+5) Route, anivel interno/externo. (ejemplo verificar lavado de activos) mensajes motores anti-lavado
+
+(base24. postillion, base24-eps)
+
+
+FED 
+
+MTS - Money Transfer System.  ( Motor de pagos interbancarios) anivel cliente a nivel banco y a nivel de clearing.   80/90
+
+wireroom, 
+
+poner una orden de pago de un banco a otro.   se enviaba  un fax firmando.   y el wire-room 
+
+antes esto en colombia lo hace ACH.
+
+MTS funciona en tamdem  
+
+
+BASE24-eps  (es un motor de pagos  con formato grafico) sucessor de BASE24.
+
+BASE24 habia que codear todas las tranaacciones
+BASE24-eps se manejan templates de transacciones parametria basica
+
+paso de procesar transacciones  /  a diseñar transacciones.
+
+Coca Cola  maneja Postilion.
+
+Cuantos nucleos tiene licenciado el cliente
+
+issuer : 5 roles  motor pagos
+
+acquirer:   5 roles motor pagos
+
+
+
+OFAC  lista clinton  bloquear.
+
+PRM primer sistema anti-fraude.
+
+BASE 24 Servicio que permitia conectar PRM  Para validacion de anti-fraude.
+
+PRM (Proactive Risk management).
+
+
+2016  Integraciones en Soluciones bancarias
+
+UP compraron  ACI creao  UPF (Universal Payment Framework).
+
+1) primera solucion fue IP ( inmediate Payment)
+
+APSF  = Similar to active directory ( para distribuir los permisos)
+
+solucion RTPF ( MTS-UPF)  saas
+
+servicios integrados.
+
+paypal primer adquirente de transacciones.
+
+
+
+UPF        IP  (APSF) (Maneja permisos AD) ( Control Center) veo todos los permisos
+
+como configure  (configuration builder: configuro entrads y salidas  (end point- gatewwy - queue).
+
+Platform Manager( monitoreo la plataforma)
+
+todas las aplicaciones estan construidos en MQ-sphere.
+
+permisos para poder prender y bajar colas 1 solo servidor para varias cosas.
+
+enviar mail a Paul SFEG.
+
+release notes,  lo que uno ni
+
+user guide, que hace y como hacerlo.
+
+playbooks.
+
+cosas que no estan disponible para LATAM.
+
+SOW. 
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,141 @@
+UP frame workr
+
+payment solution. 
+
+highlevel solution architecture.
+
+control center   web tier
+
+mcas  procesiong tier
+
+tools configration
+
+configuration basics
+
+explain how UPF can be considered  to be a framework.
+
+identify the istallation stack suitable to your enviroment
+
+FRAMEWORK = Foundation and structure for building applications from pre-written code,libraries, and tools
+
+
+
+MARKET SEGMENTS
+===============================================================================================================
+UP FRAMEWORK
+================================================================================================================
+Enables the dev of               Integrates with multiple ACI products     Supports multiple use cases and
+financial ind stand-based         and external app but may also be a        payment processes: real time payments
+end to end payment solutions       stand-alone solution                     retail payments(non-card), mechants,
+                                                                            and bill payments (card and online)
+																		
+
+UP Framework
+
+UPF Cloud infraestructure uses containerization
+
+SUPPORTED STACKS       OPTION1                OPTION1 B          OPTION2                OPTION2B
+
+JAVA                Oracle JDK                Oracle JDK          Oracle JDK        Oracle JDK
+                     V17,21                    V17,21               V17,21            V17,21  
+
+DATABAS             PostgreSQL               PostgreSQL            Oracle CBD         Oracle CBD
+                    PG 14X 15X                PG 14X 15X             RAC 19c           RAC  19c
+HIGH                 BRD / 4X,5X              BRD / 4X,5X          Golden Gate         Golden Gate
+                                                                     Dataguard
+AVAILABILITY
+
+APPLICATION         SB Tomcat Embedded      SB Tomcat Embedded   SB Tomcat Embedded    SB Tomcat Embedded
+SERVER                   10x                       10x                   10x                  10x
+
+OPERATING SYSTEM     Linux Redhat EE v8x    Linux Redhat EE v8x    Linux Redhat EE v8x   Linux Redhat EE v8x   
+                                             Contenerized                                    Contenerized
+                                              AKS,AWS,Kubern	                             AKS,AWS,Kubern
+
+
+UP FRAMEWROK TOPOLOGY
+
+
+KEY UPF COMPONETS
+======================================================================================================================
+           Compromised of UPF Ccontrol center
+           Provides web-based user interface
+WEB TIER   Used to configure and manage security, organization and users
+
+PROCESSING  Compromised of UPF MCAS processing engine on which solutions are deployed
+TIER        ICE-XS that relays the physical communication of messages 
+            Responsible for transaction message processing
+
+SERVICES    Messages between tiers is sent through the business Services Interface(BSI)
+
+DATA TIER   Provides data storage and data managemente capabilites   
+
+MANAGEABILITY Accessing statistics and reports on the functioning of the system
+
+DEVELOPMENT   Development refers to both internal dev of the platform and  the control center user interfaces and functions
+CONFIG        Configuration largely is a client function to set up the system to process transactions according to the business requirements
+
+
+
+
+
+
+MANAGEABILITY
+
+
+
+
+
+DEVELOPMENT
+CONFIG
+
+											  
+											  
+List the modules that comproise the control center and their main functions
+Describe the core framework capabilites
+Explain the roles of the web tier frameworks that the control center application and its functionalities have been developed online
+Name the databases for the Web Tier
+Briefly explain how to managing and monitoring of the system is enabled and presented in th UI
+Identify the focus of the tools for the Web TIER
+
+
+CONTROL CENTER INFRAESTRUCTURE
+
+Is a Service-Oriented Architecture (SOA)
+Defines a core set of services and capabilities
+Capabilites invoked from the COntrol Center application of from APIS exposed through the control center
+Has a structure composed of a set of componets: (web presentation modules, business logic modules, data access modules)
+Provides support for MFA(multifactor auth)
+
+
+CONTROL CENTER MODULES
+-Control center shell application: host the login page and present the desktop after success authentication
+-Administration modules
+-Entilementes,  security, authentication, autorization, roles and user management
+-Business Intelligence: use UTR(universal Transaction Repository) and presents data in for of Dashboards
+-Microservices INFRAESTRUCTURE: OpenAPIS,(REST) APIS 
+-Plugings: The control Center modules contain the infa for addtional plug-ins
+-Plaform Manger Capabilites: exposed in control center ar only applcable for Cloud deployments.
+
+2 WEB TIER CAPABILITIES
+-Core Framework ( Logging, Application COnfiguration Management, Event Management, UTR Change Sets; Manageabilit, Data Access)
+
+EVENT DRIVEN ARCHITECTURE (EDA)
+
+Events(event configured)
+     Event Triggered
+	     Event Processed 
+		      Identified with event code
+                        Event Logged
+						    Logs  Viewed.
+							
+EVENT MANAGEMENT COMPONENTS
+
+Event Producer: This includes configuring, emitting and routing of the event
+                This events are triggerd based on the configration
+Event COnsumer: Event listeners, and event processor services, and event processors
+
+Event Management: UI an browser UI provided by the control center application allows the user to manage
+                  Event  meta-data and view events logged by the Event Log.
+				  
+Alert Producer & Consumer: configure, emit and route,  (read log process alert).
